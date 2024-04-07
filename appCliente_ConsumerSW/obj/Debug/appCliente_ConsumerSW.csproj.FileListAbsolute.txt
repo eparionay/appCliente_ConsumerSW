@@ -1,0 +1,13 @@
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\bin\Debug\appCliente_ConsumerSW.exe.config
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\bin\Debug\appCliente_ConsumerSW.exe
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\bin\Debug\appCliente_ConsumerSW.pdb
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\bin\Debug\Newtonsoft.Json.dll
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\bin\Debug\Newtonsoft.Json.xml
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appCliente_ConsumerSW.csproj.AssemblyReference.cache
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appCliente_ConsumerSW.Form1.resources
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appCliente_ConsumerSW.Properties.Resources.resources
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appCliente_ConsumerSW.csproj.GenerateResource.cache
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appCliente_ConsumerSW.csproj.CoreCompileInputs.cache
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appClien.86800B59.Up2Date
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appCliente_ConsumerSW.exe
+C:\Users\epariona\Desktop\CNet\appCliente_ConsumerSW\appCliente_ConsumerSW\obj\Debug\appCliente_ConsumerSW.pdb
